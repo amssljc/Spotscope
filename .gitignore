@@ -1,0 +1,6 @@
+example_data
+spotscope/__pycache__
+spotscope.egg-info
+.pytest_cache
+test
+ckpt
